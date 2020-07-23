@@ -1,3 +1,8 @@
 node_modules/
 .idea/
-europe-bank/
+
+app/
+.gitignore/
+gulpfile.js/
+package.json/
+package-lock.json/
