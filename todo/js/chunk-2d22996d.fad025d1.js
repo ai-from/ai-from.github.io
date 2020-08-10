@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22996d"],{dda8:function(n,t,e){"use strict";e.r(t);var r=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},a=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"error indent"},[e("p",{staticClass:"notification"},[n._v("Страница не найдена")])])}],s={name:"Error"},c=s,i=e("2877"),l=Object(i["a"])(c,r,a,!1,null,null,null);t["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-2d22996d.fad025d1.js.map
