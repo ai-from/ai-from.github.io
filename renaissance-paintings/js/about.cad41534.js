@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"1aaf":function(t,n,a){"use strict";a.r(n);var e=function(){var t=this,n=t.$createElement,a=t._self._c||n;return a("div",{staticClass:"sold"},[t._v(" Sold ")])},l=[],s=a("2877"),o={},u=Object(s["a"])(o,e,l,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=about.cad41534.js.map
