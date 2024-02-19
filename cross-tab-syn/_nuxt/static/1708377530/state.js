@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fcross-tab-syn\u002F_nuxt\u002Fstatic\u002F1708377530",layout:"default",error:a,state:{coords:{x:b,y:b}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fcross-tab-syn\u002F",assetsPath:"\u002Fcross-tab-syn\u002F_nuxt\u002F",cdnURL:a}}}}(null,0));
