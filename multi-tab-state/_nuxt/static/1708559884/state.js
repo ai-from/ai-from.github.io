@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fmulti-tab-state\u002F_nuxt\u002Fstatic\u002F1708559884",layout:"default",error:a,state:{coords:{x:b,y:b}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fmulti-tab-state\u002F",assetsPath:"\u002Fmulti-tab-state\u002F_nuxt\u002F",cdnURL:a}}}}(null,0));
